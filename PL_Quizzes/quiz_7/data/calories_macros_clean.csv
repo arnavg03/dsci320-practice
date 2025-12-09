@@ -1,0 +1,61 @@
+Country,Code,Year,Macronutrient,Calories
+Australia,AUS,2013-01-01,Animal_protein,286.72
+Brazil,BRA,2013-01-01,Animal_protein,210.36
+Burkina Faso,BFA,2013-01-01,Animal_protein,44.28
+Canada,CAN,2013-01-01,Animal_protein,218.8
+China,CHN,2013-01-01,Animal_protein,158.56
+France,FRA,2013-01-01,Animal_protein,277.4
+India,IND,2013-01-01,Animal_protein,47.96
+Jamaica,JAM,2013-01-01,Animal_protein,148.44
+Norway,NOR,2013-01-01,Animal_protein,263.96
+Poland,POL,2013-01-01,Animal_protein,213.08
+South Korea,KOR,2013-01-01,Animal_protein,184.52
+Switzerland,CHE,2013-01-01,Animal_protein,239.08
+Thailand,THA,2013-01-01,Animal_protein,99.4
+United States,USA,2013-01-01,Animal_protein,279.12
+Zimbabwe,ZWE,2013-01-01,Animal_protein,47.04
+Australia,AUS,2013-01-01,Plant_protein,138.4
+Brazil,BRA,2013-01-01,Plant_protein,169.6
+Burkina Faso,BFA,2013-01-01,Plant_protein,273.24
+Canada,CAN,2013-01-01,Plant_protein,201.0
+China,CHN,2013-01-01,Plant_protein,233.6
+France,FRA,2013-01-01,Plant_protein,164.68
+India,IND,2013-01-01,Plant_protein,193.04
+Jamaica,JAM,2013-01-01,Plant_protein,159.44
+Norway,NOR,2013-01-01,Plant_protein,179.64
+Poland,POL,2013-01-01,Plant_protein,192.8
+South Korea,KOR,2013-01-01,Plant_protein,200.28
+Switzerland,CHE,2013-01-01,Plant_protein,133.24
+Thailand,THA,2013-01-01,Plant_protein,144.12
+United States,USA,2013-01-01,Plant_protein,159.28
+Zimbabwe,ZWE,2013-01-01,Plant_protein,146.36
+Australia,AUS,2013-01-01,Fat,1357.65
+Brazil,BRA,2013-01-01,Fat,1059.75
+Burkina Faso,BFA,2013-01-01,Fat,554.4
+Canada,CAN,2013-01-01,Fat,1323.45
+China,CHN,2013-01-01,Fat,862.83
+France,FRA,2013-01-01,Fat,1432.8
+India,IND,2013-01-01,Fat,470.25
+Jamaica,JAM,2013-01-01,Fat,705.78
+Norway,NOR,2013-01-01,Fat,1342.35
+Poland,POL,2013-01-01,Fat,1076.13
+South Korea,KOR,2013-01-01,Fat,920.79
+Switzerland,CHE,2013-01-01,Fat,1382.31
+Thailand,THA,2013-01-01,Fat,527.49
+United States,USA,2013-01-01,Fat,1453.86
+Zimbabwe,ZWE,2013-01-01,Fat,514.62
+Australia,AUS,2013-01-01,Carbohydrates,1493.23
+Brazil,BRA,2013-01-01,Carbohydrates,1823.29
+Burkina Faso,BFA,2013-01-01,Carbohydrates,1848.08
+Canada,CAN,2013-01-01,Carbohydrates,1750.75
+China,CHN,2013-01-01,Carbohydrates,1853.01
+France,FRA,2013-01-01,Carbohydrates,1607.12
+India,IND,2013-01-01,Carbohydrates,1747.75
+Jamaica,JAM,2013-01-01,Carbohydrates,1732.34
+Norway,NOR,2013-01-01,Carbohydrates,1699.05
+Poland,POL,2013-01-01,Carbohydrates,1968.99
+South Korea,KOR,2013-01-01,Carbohydrates,2028.41
+Switzerland,CHE,2013-01-01,Carbohydrates,1636.37
+Thailand,THA,2013-01-01,Carbohydrates,2012.99
+United States,USA,2013-01-01,Carbohydrates,1789.74
+Zimbabwe,ZWE,2013-01-01,Carbohydrates,1401.98
